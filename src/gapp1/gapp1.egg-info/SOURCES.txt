@@ -5,6 +5,7 @@ setup.cfg
 setup.py
 gapp1/__init__.py
 gapp1/conftest.py
+gapp1/models.py
 gapp1/pyramid_jinja2.py
 gapp1/resources.py
 gapp1/test_views.py
@@ -26,5 +27,7 @@ gapp1/static/pyramid-small.png
 gapp1/static/pyramid.png
 gapp1/static/pyramid_ae.png
 gapp1/static/transparent.gif
+gapp1/templates/crea_event.mako
+gapp1/templates/llista_events.mako
 gapp1/templates/main.mako
 gapp1/templates/page1.mako
